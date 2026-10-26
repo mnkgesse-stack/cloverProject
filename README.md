@@ -9,7 +9,7 @@ d'un parcours d'apprentissage de Godot.
 
 ## Concept
 
-Le joueur explore une ville avec une horlogerie du monde réel composée de plusieurs quartiers etou niveaux et ramasse toutes
+Le joueur explore une ville avec une horlogerie du monde réel composée de plusieurs quartiers et/ou niveaux et ramasse toutes
 les pièces avant la fin du temps imparti. La version minimale du jeu doit
 permettre de :
 
