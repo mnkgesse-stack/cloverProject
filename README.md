@@ -1,6 +1,6 @@
 # CloverProject : Donjon Quest
 
-Jeu d'aventure 2D pour PC dans lequel le joueur explore un donjon, accomplit des quêtes et recrute des compagnons et des armes au fil de sa progression. Le projet est développé à deux dans le cadre d'un parcours d'apprentissage de Godot.
+Jeu d'aventure 2D pour PC dans lequel le joueur explore un donjon, accomplit des quêtes et recrute des compagnons et collectionne des armes au fil de sa progression. Le projet est développé à deux dans le cadre d'un parcours d'apprentissage de Godot.
 
 > **État du projet :** phase de game design. Le principe général est posé (donjon, quêtes, compagnons). Les choix listés dans _Points à trancher_ restent ouverts.
 
