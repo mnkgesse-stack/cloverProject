@@ -20,6 +20,139 @@ La version minimale du jeu doit permettre de :
 - utiliser la capacité d'un compagnon pour accéder à une nouvelle zone ;
 - terminer le donjon en accomplissant la quête finale.
 
+## Personnages
+
+Quatre personnages principaux — les Quatre Reliques Primordiales.
+
+### Personnage 1 : Astrax
+
+| Élément | Description |
+|---|---|
+| Bio | Gardien des cités suspendues, porteur de la dernière étincelle d'une tempête ancestrale. Il cherche les fragments du ciel brisé pour sauver les royaumes du vide. |
+| Style | Combat agressif et mobile : éclairs, attaques aériennes et mécanismes électriques. |
+
+| État | Nom | Relique | Armes | Pouvoir |
+|---|---|---|---|---|
+| Forme de base | **Astrax, l'Éclat Foudroyant** | **Cœur Fulminant** : stocke la charge des attaques et esquives. | **Gantelets Conducteurs** : coups rapides électrifiés. | **Impulsion** : éclairs courts, dash foudroyant, activation de portes et rails d'énergie. |
+| Mode Héros (Brave) | **Astrax, Brise-Tempête** | **Surcharge** : libère la charge sans vider toute la jauge. | **Lances d'Orage** : moyenne portée et combos aériens. | **Chaîne Céleste** : éclairs rebondissants ; aimantation aux murs et paratonnerres. |
+| Mode Élu | **Astrax, Héritier du Firmament** | **Noyau d'Orage** : absorbe tempêtes, pièges et attaques électriques. | **Hallebarde Fulgurante** : arcs électriques au sol. | **Domaine Magnétique** : attire, repousse ou suspend objets et ennemis métalliques. |
+| Mode Divin | **Astrax, Souverain des Sept Tonnerres** | **Tempête Vivante** : cyclone de foudre temporaire. | **Trône-Éclair** : arme de foudre modulable. | **Jugement des Cieux** : tempête ciblant les marques ; traverse les gouffres sous forme de foudre. |
+
+#### Compagnon d'Astrax : Voltrik
+
+| Élément | Description |
+|---|---|
+| Bio | Faucon mécanique réveillé au sommet d'un paratonnerre antique, accordé au Cœur Fulminant. |
+| Rôle | Marquage, mobilité aérienne et activation de réseaux électriques éloignés. |
+
+| État | Nom | Relique | Pouvoir |
+|---|---|---|---|
+| Forme de base | **Voltrik, l'Étincelle Ailée** | **Plume Conductrice** : repère l'énergie proche. | **Marquage Fulgurant** : marque une cible, active un interrupteur et récupère des objets. |
+| Mode Héros (Brave) | **Voltrik, Aile de Tonnerre** | **Arc Chargé** : propage la charge. | **Relais d'Orage** : éclairs en chaîne et plané bref pour Astrax. |
+| Mode Élu | **Voltrik, Faucon du Firmament** | **Batterie Céleste** : alimente les structures antiques. | **Perchoirs de Foudre** : plates-formes électriques et circuits cachés révélés. |
+| Mode Divin | **Voltrik, Avatar de la Tempête** | **Aile du Ciel Brisé** : fusion avec les nuages. | **Vol du Maelström** : monture de foudre pour gouffres géants et plongée destructrice. |
+
+---
+
+### Personnage 2 : Sah-Ra
+
+| Élément | Description |
+|---|---|
+| Bio | Exploratrice née dans une oasis bâtie autour d'un réacteur solaire ancien. Sa lumière guide les peuples des terres mortes, mais peut devenir destructrice. |
+| Style | Polyvalent : lumière à distance, mêlée, protection, soin limité et création de chemins. |
+
+| État | Nom | Relique | Armes | Pouvoir |
+|---|---|---|---|---|
+| Forme de base | **Sah-Ra, Porteuse de l'Aube** | **Noyau Héliarque** : transforme l'énergie en chaleur, lumière et vie. | **Sceptre de l'Aube** : lame et tirs précis. | **Rayon Vital** : brûle, éclaire, active les cristaux et révèle murs ou inscriptions cachés. |
+| Mode Héros (Brave) | **Sah-Ra, Flamme des Sables** | **Fournaise** : sa chaleur augmente avec l'offensive. | **Chakrams Solaires** : disques de lumière. | **Floraison Ardente** : plantes de soin, de contrôle, de pont ou d'échelle. |
+| Mode Élu | **Sah-Ra, Cœur du Zénith** | **Petit Soleil** : absorbe une part des dégâts. | **Arc du Zénith** : flèches courbes ou divisées. | **Chemin de Midi** : couloirs de lumière solide, plates-formes et protection contre poison ou froid. |
+| Mode Divin | **Sah-Ra, Impératrice de l'Aube Infinie** | **Soleil Renaissance** : énergie vitale à jauge pleine. | **Couronne des Mille Rayons** : lames orbitantes. | **Terre du Premier Jour** : zone de soin et de ralentissement qui réactive la vie et les machines. |
+
+#### Compagnon de Sah-Ra : Nefru
+
+| Élément | Description |
+|---|---|
+| Bio | Scarabée solaire né autour d'un fragment du Noyau Héliarque, attiré par les lieux où la vie s'est éteinte. |
+| Rôle | Lumière, soin, flore utilitaire et restauration de mécanismes. |
+
+| État | Nom | Relique | Pouvoir |
+|---|---|---|---|
+| Forme de base | **Nefru, le Scarabée Lumineux** | **Scarabée d'Or** : collecte la lumière. | **Lueur Chercheuse** : éclaire et révèle objets cachés ou énergie solaire. |
+| Mode Héros (Brave) | **Nefru, Gardien Doré** | **Carapace Protectrice** : condense la lumière. | **Halo Gardien** : bouclier bref et soin léger après esquive parfaite. |
+| Mode Élu | **Nefru, Scarabée du Zénith** | **Graine de Midi** : réveille la flore ancienne. | **Jardin Solaire** : plantes-ponts, lianes, pièges ou sources de soin. |
+| Mode Divin | **Nefru, Sphinx Ailé de l'Aube** | **Cœur de Renaissance** : lumière réparatrice à grande échelle. | **Éveil des Ruines** : restaure un mécanisme majeur et ouvre une nouvelle région. |
+
+---
+
+### Personnage 3 : Kurojin
+
+| Élément | Description |
+|---|---|
+| Bio | Ancien éclaireur d'un archipel noyé dans la brume, Kurojin recherche les fragments de sa mémoire et de son âme. |
+| Style | Assassin tactique : marques, doubles, infiltration et contrôle de l'obscurité. |
+
+| État | Nom | Relique | Armes | Pouvoir |
+|---|---|---|---|---|
+| Forme de base | **Kurojin, l'Ombre Errante** | **Cœur du Vide** : recueille l'énergie des cibles marquées et zones obscures. | **Lames Jumelles du Crépuscule** : attaques rapides et contres. | **Pas Obscur** : téléportation entre ombres, extinction de lumières et marque d'ennemi. |
+| Mode Héros (Brave) | **Kurojin, Chasseur d'Éclipse** | **Faim Nocturne** : les marques drainent l'énergie ennemie. | **Kusarigamas d'Ombre** : chaînes et lames. | **Double Silencieux** : clone qui répète une attaque, maintient un levier ou distrait les gardiens. |
+| Mode Élu | **Kurojin, Gardien du Croissant Noir** | **Lune Absente** : élargit les ombres disponibles. | **Naginata Nocturne** : traînées ralentissantes. | **Royaume Sans Lumière** : zone d'ombre pour échanger avec le double et révéler les passages secrets. |
+| Mode Divin | **Kurojin, Prince de l'Éclipse Éternelle** | **Nuit Souveraine** : lien coûteux avec le royaume des ombres. | **Lame de la Lune Éteinte** : brise les barrières magiques. | **Éclipse Éternelle** : furtivité renforcée, doubles chasseurs et accès aux portes d'ombre antiques. |
+
+#### Compagnon de Kurojin : Yami
+
+| Élément | Description |
+|---|---|
+| Bio | Renard spectral né d'un souvenir perdu de Kurojin, capable de reconnaître les ombres liées à son passé. |
+| Rôle | Détection, leurres, portails d'ombre et amplification des marques. |
+
+| État | Nom | Relique | Pouvoir |
+|---|---|---|---|
+| Forme de base | **Yami, le Renard de Brume** | **Perle de Brume** : capte les traces spirituelles. | **Piste Fantôme** : détecte passages cachés et détourne un ennemi. |
+| Mode Héros (Brave) | **Yami, Renard aux Deux Queues** | **Reflet Trompeur** : crée une illusion. | **Leurres Jumeaux** : faux Kurojin pour détourner ennemis, pièges et mécanismes. |
+| Mode Élu | **Yami, Kitsune de la Lune Noire** | **Passage Spectral** : relie les zones d'ombre. | **Porte du Renard** : franchit les barrières, vole un bonus ennemi et laisse un portail. |
+| Mode Divin | **Yami, Esprit des Neuf Éclipses** | **Couronne des Neuf Lunes** : neuf flammes d'ombre. | **Chasse des Neuf Ombres** : marque les ennemis ; les vaincre prolonge l'Éclipse de Kurojin. |
+
+---
+
+### Personnage 4 : Ketzar
+
+| Élément | Description |
+|---|---|
+| Bio | Cartographe des cités-montagnes de l'Ouest, Ketzar cherche les lois oubliées du monde. Chaque découverte modifie sa force et sa lecture du terrain. |
+| Style | Mobile et analytique : vent, vol, runes et faiblesses ennemies. |
+
+| État | Nom | Relique | Armes | Pouvoir |
+|---|---|---|---|---|
+| Forme de base | **Ketzar, Voyageur des Vents** | **Spirale Éthérée** : transforme les découvertes en Écailles de Savoir. | **Bâton-Serpent** : bâton flexible prolongé par le vent. | **Souffle Ascendant** : rafales, plané court, courants ascendants et déplacement d'objets légers. |
+| Mode Héros (Brave) | **Ketzar, Aile des Ruines** | **Écailles de Savoir** : révèle les faiblesses des ennemis étudiés. | **Fouet des Alizés** : attire, repousse ou désarme. | **Œil du Cartographe** : révèle courants, murs fragiles et traces ; guide les projectiles. |
+| Mode Élu | **Ketzar, Maître des Mille Routes** | **Grimoire du Vent** : combine les Écailles pour des effets temporaires. | **Lance du Serpent Céleste** : crée des tornades. | **Porte des Courants** : tunnel de vent vers sommets, zones empoisonnées et mécanismes à rediriger. |
+| Mode Divin | **Ketzar, Serpent des Mille Horizons** | **Loi du Ciel** : permet de choisir une règle naturelle à altérer brièvement. | **Corps du Dragon-Vent** : forme de serpent-dragon aérien. | **Décret des Horizons** : modifie gravité, vitesse des projectiles ou direction des vents et ouvre les chemins finaux. |
+
+#### Compagnon de Ketzar : Aru
+
+| Élément | Description |
+|---|---|
+| Bio | Jeune serpent-plume découvert dans une carte vivante. Il mémorise les routes invisibles révélées par les découvertes de Ketzar. |
+| Rôle | Courants d'air, vol, traduction de runes et accès aux sanctuaires célestes. |
+
+| État | Nom | Relique | Pouvoir |
+|---|---|---|---|
+| Forme de base | **Aru, le Serpenteau des Brises** | **Plume Spirale** : ressent vents, runes et passages oubliés. | **Guide des Courants** : indique les courants, récupère les objets et révèle les prises cachées. |
+| Mode Héros (Brave) | **Aru, Plume des Alizés** | **Souffle Porteur** : emmagasine la force des vents découverts. | **Rafale Complice** : repousse ennemis, déplace blocs et prolonge le vol de Ketzar. |
+| Mode Élu | **Aru, Oracle des Hautes Routes** | **Mémoire des Ruines** : déchiffre langues et itinéraires anciens. | **Vision de l'Oracle** : traduit symboles, révèle faiblesses des boss et routes vers trésors. |
+| Mode Divin | **Aru, Dragon des Horizons** | **Aile du Monde** : fusion temporaire avec la Spirale Éthérée. | **Union des Mille Vents** : fusionne avec Ketzar pour voler librement, créer des tornades et activer les sanctuaires finaux. |
+
+---
+
+### Règle de progression commune
+
+| Ressource | Fonction |
+|---|---|
+| **Résonance** | Jauge ultime : augmente via combats stylés, zones secrètes, énigmes et Fragments de Relique. |
+| **Fragments de Relique** | Déverrouillent les formes Héros, Élu et Divin des personnages. |
+| **Noyaux Compagnons** | Cachés dans des zones facultatives ; ils font évoluer les compagnons suivant les quatre mêmes états. |
+
+
 ## Informations du projet
 
 | Élément          | Choix                                     |
