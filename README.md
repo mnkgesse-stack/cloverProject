@@ -143,6 +143,15 @@ Quatre personnages principaux — les Quatre Reliques Primordiales.
 | Mode Divin | **Aru, Dragon des Horizons** | **Aile du Monde** : fusion temporaire avec la Spirale Éthérée. | **Union des Mille Vents** : fusionne avec Ketzar pour voler librement, créer des tornades et activer les sanctuaires finaux. |
 
 ---
+### Mondes
+
+#### Mondes 
+|Nom | Caractéristique principal |Elements internes | Boss final |Récompenses de fin| 
+|---|---|---|---|---|
+| **Temple du Dieu Soleil**|  essence solaire| dunes de sables, créatures de lumière, ruines ancestraux,...| Tonatiuh Tyran solaire (ça se meut, ça va en éméttant de la chaleur et de la lumière)| Horloge universelle(permet de connaître exactement le temps et les cycles saisonniers peu importe le monde)
+| **
+
+    
 
 ### Règle de progression commune
 
@@ -178,7 +187,7 @@ Le code est écrit par les membres de l'équipe. Les assets et ressources extern
 ### Récupérer le projet
 
 ```bash
-git clone <URL_DU_DEPOT>
+git clone <https://github.com/mnkgesse-stack/cloverProject.git>
 cd cloverProject/city-discovery
 ```
 
