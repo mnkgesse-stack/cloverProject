@@ -148,8 +148,9 @@ Quatre personnages principaux — les Quatre Reliques Primordiales.
 #### Mondes 
 |Nom | Caractéristique principal |Elements internes | Boss final |Récompenses de fin| 
 |---|---|---|---|---|
-| **Temple du Dieu Soleil**|  essence solaire| dunes de sables, créatures de lumière, ruines ancestraux,...| Tonatiuh Tyran solaire (ça se meut, ça va en éméttant de la chaleur et de la lumière)| Horloge universelle(permet de connaître exactement le temps et les cycles saisonniers peu importe le monde)
-| **
+| **Temple du Dieu Soleil**|  essence solaire | dunes de sables, créatures de lumière, ruines ancestraux,...| Tonatiuh Tyran solaire (ça se meut, ça va en éméttant de la chaleur et de la lumière)| Horloge universelle(permet de connaître exactement le temps et les cycles saisonniers peu importe le monde)
+| **Temple du dieu du vent**| vent omniprésent(peut influencer le déplacement du joueur) | brises de vent, montagnes , îles flottantes , ... | Fûjin : Le roi des vents ; se meut, maîtrise les vents(courants aériens, rafales, tourbillons, ...), peut en prendre une forme | Médaillon de Fûjin (sait pas encore ce qu'il pourra en faire)
+|**
 
     
 
