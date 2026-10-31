@@ -146,11 +146,101 @@ Quatre personnages principaux — les Quatre Reliques Primordiales.
 ### Mondes
 
 #### Mondes 
-|Nom | Caractéristique principal |Elements internes | Boss final |Récompenses de fin| 
+| Nom | Caractéristique principale | Éléments internes | Boss final | Récompenses de fin |
 |---|---|---|---|---|
-| **Temple du Dieu Soleil**| essence solaire | dunes de sables, créatures de lumière, ruines ancestraux,... | Tonatiuh Tyran solaire (ça se meut, ça va en éméttant de la chaleur et de la lumière) | Horloge universelle (permet de connaître exactement le temps et les cycles saisonniers peu importe le monde) |
-| **Temple du dieu du vent**| vent omniprésent(peut influencer le déplacement du joueur) | brises de vent, montagnes , îles flottantes , ... | Fûjin : Le roi des vents ; se meut, maîtrise les vents(courants aériens, rafales, tourbillons, ...), peut en prendre une forme | Médaillon de Fûjin (sait pas encore ce qu'il pourra en faire)
-| **Abysses** | à définir | à définir | à définir | à définir |
+| **Temple du Dieu Soleil** | Essence solaire ; chaleur et lumière modifient les déplacements, les énigmes et la survie du joueur. | Dunes de sable, Scrokoalls (demi-scorpions, demi-humains), vers des sables, colosses de sable, oasis mortes, ruines ancestrales, miroirs solaires. | **Tonatiuh, Tyran Solaire** : dieu mobile émettant chaleur et lumière. Il veut supprimer définitivement la nuit afin de dominer des habitants épuisés par un jour sans fin. Le joueur doit le vaincre pour restaurer l'alternance jour-nuit. | **Horloge Universelle** : indique l'heure et les cycles saisonniers de tous les mondes. Débloque aussi les événements liés à l'aube, au midi, au crépuscule et à la nuit. |
+| **Cieux Déchus** | Vent omniprésent ; les courants aériens influencent saut, chute, vol et projectiles. | Brises violentes, montagnes verticales, îles flottantes, ponts brisés, nids de harpies, temples suspendus, tempêtes permanentes. | **Fūjin, Roi des Vents** : ancien gardien des cieux devenu paranoïaque après la chute de son royaume. Il maintient les îles dans une tempête continue, convaincu qu'un ciel calme les ferait tomber. Il maîtrise courants aériens, rafales, tourbillons et forme de cyclone. | **Médaillon de Fūjin** : permet d'influencer la météo d'un monde : dissiper le brouillard, invoquer une brise, faire tomber une pluie légère ou calmer une tempête. |
+| **Abysses Infernales** | Monde souterrain ; l'obscurité est une ressource autant qu'un danger. | Labyrinthes vivants, créatures des ténèbres, Ombres des Enfers, chiens noirs, rivières de cendres, prisons oubliées, portes scellées, cristaux de mémoire. | **Strix, la Reine des Fausses Nuits** : entité ancienne qui imite les morts et se nourrit des souvenirs des vivants. Elle a plongé les Abysses dans une nuit artificielle afin que personne ne retrouve son passé ni ne quitte le monde souterrain. Elle combat avec des clones, des illusions et des ombres prédatrices. | **Lanterne du Crépuscule** : révèle passages invisibles, souvenirs cachés et ennemis illusoires. Elle permet aussi d'ouvrir certaines portes d'ombre. |
+| **Forge du Ciel Fracturé** | Électricité instable ; le joueur doit canaliser l'énergie pour déplacer machines, ponts et ascenseurs. | Usines célestes abandonnées, rails électriques, éclairs vivants, automates métalliques, nuages conducteurs, tours paratonnerres, failles gravitationnelles. | **Keraunos, le Cœur-Foudre** : ancien gardien mécanique dont le noyau a été corrompu. Il absorbe toute l'énergie du monde pour reconstruire une armée de machines célestes. Il alterne entre forme humanoïde blindée, bête électrique et tempête vivante. | **Noyau de Résonance** : augmente la réserve maximale de Résonance et permet d'activer les sanctuaires de transformation vers les modes Élu et Divin. |
+
+## Protagoniste : Kael Nadir
+
+| Élément | Description |
+|---|---|
+| Âge et situation | Kael Nadir, 17 ans, est un lycéen discret, passionné d'astronomie et de jeux d'énigmes. Il vit une période difficile : il se sent inutile face à la pression scolaire et à l'absence de son père, souvent en déplacement. |
+| Incident déclencheur | En rentrant d'une soirée au lycée, Kael observe une anomalie lumineuse dans une vieille horloge astronomique exposée dans le hall. Lorsqu'il la touche, l'horloge s'ouvre et le téléporte dans le Temple du Dieu Soleil. |
+| Objectif | Traverser les quatre mondes, résoudre le déséquilibre majeur de chacun et réunir les quatre clefs du Portail Ancestral pour rentrer chez lui. |
+| Évolution | Kael progresse continuellement par l'expérience, les combats, l'exploration et les sanctuaires. Ses transformations ne sont donc pas des récompenses de fin de monde : elles se débloquent progressivement au fil des niveaux. |
+
+## Structure de la campagne
+
+Chaque monde possède **cinq niveaux**. Les quatre premiers se concluent par un général de l'armée du boss du monde ; le cinquième niveau se conclut par le boss final. Le problème majeur du monde doit être résolu avant que le Portail Ancestral ne donne accès au monde suivant.
+
+| Monde | Problème majeur à résoudre | Clef obtenue | Accès suivant |
+|---|---|---|---|
+| Temple du Dieu Soleil | Restaurer l'alternance entre le jour et la nuit. | **Clé Astrale I** + Horloge Universelle | Le cycle restauré révèle l'ascension vers les Cieux Déchus. |
+| Cieux Déchus | Calmer la tempête qui empêche les îles de communiquer. | **Clé Astrale II** + Médaillon de Fūjin | Les vents apaisés révèlent l'entrée abyssale. |
+| Abysses Infernales | Dissiper la fausse nuit et rendre leurs souvenirs aux prisonniers. | **Clé Astrale III** + Lanterne du Crépuscule | La lanterne révèle le chemin caché vers la Forge. |
+| Forge du Ciel Fracturé | Stopper la collecte d'énergie qui alimente l'armée mécanique. | **Clé Astrale IV** + Cœur de Résonance Pure | Les quatre Clés Astrales activent le Portail Ancestral. |
+
+## Niveaux du Temple du Dieu Soleil
+
+| Niveau | Zone | Boss de fin | Fonction dans l'armée de Tonatiuh |
+|---|---|---|---|
+| 1 | Dunes du Premier Feu | **Skor-Akh, le Collecteur de Venin** | Général éclaireur ; commande les Scrokoalls. |
+| 2 | Oasis des Miroirs Brisés | **Miraq, la Prêtresse Incandescente** | Général tacticienne ; contrôle les miroirs solaires. |
+| 3 | Ruines du Midi Perpétuel | **Ghoram, le Colosse des Dunes** | Général de siège ; protège les ruines et les prisons. |
+| 4 | Galerie des Vers-Rois | **Ulmahr, le Dévoreur d'Aube** | Général chasseur ; domine les vers de sable. |
+| 5 | Sanctuaire du Soleil Immobile | **Tonatiuh, Tyran Solaire** | Chef de l'armée ; cherche à éradiquer la nuit pour régner sans fin. |
+
+## Niveaux des Cieux Déchus
+
+| Niveau | Zone | Boss de fin | Fonction dans l'armée de Fūjin |
+|---|---|---|---|
+| 1 | Falaises des Vents Contraires | **Kamae, le Briseur d'Ailes** | Général de patrouille ; abat les voyageurs des cieux. |
+| 2 | Îles des Harpies de Verre | **Sora, la Reine des Serres** | Générale aérienne ; commande les harpies. |
+| 3 | Ponts de Brume | **Tetsu, le Moine Tourbillon** | Général mystique ; crée les vortex qui isolent les îles. |
+| 4 | Tour des Mille Rafales | **Arashi, la Lame du Typhon** | Général d'élite ; manie des lames de vent. |
+| 5 | Palais du Ciel Brisé | **Fūjin, Roi des Vents** | Chef de l'armée ; maintient une tempête éternelle par peur de perdre les îles. |
+
+## Niveaux des Abysses Infernales
+
+| Niveau | Zone | Boss de fin | Fonction dans l'armée de Strix |
+|---|---|---|---|
+| 1 | Fosses des Chiens Noirs | **Cerkar, le Maître des Crocs** | Général pisteur ; garde les entrées abyssales. |
+| 2 | Labyrinthe des Cendres | **Morbia, la Tisseuse d'Os** | Générale bâtisseuse ; façonne les labyrinthes vivants. |
+| 3 | Prisons des Sans-Souvenirs | **Veyra, la Veuve des Échos** | Générale inquisitrice ; vole les souvenirs des prisonniers. |
+| 4 | Lac des Reflets Morts | **Noctis, le Chevalier Sans Visage** | Général exécuteur ; combat au moyen d'illusions et de doubles. |
+| 5 | Trône de la Nuit Artificielle | **Strix, Reine des Fausses Nuits** | Cheffe de l'armée ; imite les morts et plonge le monde dans une nuit de mensonges. |
+
+## Niveaux de la Forge du Ciel Fracturé
+
+| Niveau | Zone | Boss de fin | Fonction dans l'armée de Keraunos |
+|---|---|---|---|
+| 1 | Rails des Éclairs Vivants | **Volkran, le Conducteur Rouge** | Général de transport ; alimente les rails et convois d'énergie. |
+| 2 | Fonderies des Nuages | **Astra-9, la Forgeronne d'Acier** | Générale ingénieure ; fabrique les automates. |
+| 3 | Réacteurs de Gravité | **Magnes, le Géant Polaire** | Général défensif ; manipule le métal et la gravité. |
+| 4 | Paratonnerres du Néant | **Elektra, l'Épée Voltigeuse** | Générale d'assaut ; utilise la foudre comme téléportation. |
+| 5 | Noyau de la Forge Céleste | **Keraunos, le Cœur-Foudre** | Chef de l'armée ; aspire l'énergie du monde pour bâtir son armée mécanique. |
+
+---
+
+## Épilogue : le Portail Ancestral
+
+Après la victoire sur Keraunos, Kael réunit les **quatre Clés Astrales**. Elles ouvrent le Portail Ancestral, censé le ramener au lycée. Les objets spéciaux restent en sa possession et servent ensuite à l'exploration, aux quêtes secondaires et à la conclusion.
+
+Pendant le voyage inter-univers, le portail se brise hors des routes connues. Kael tombe dans le **Vestibule des Ères**, un espace entre les mondes où réside le dernier gardien.
+
+| Élément | Description |
+|---|---|
+| Boss final secret | **Khronovar, le Dévoreur d'Instants** |
+| Origine | Créature dérivée de Chronos : autrefois gardien du flux temporel, il a absorbé trop de lignes temporelles instables et s'est changé en monstre. |
+| Apparence | Géant drapé de cadrans brisés, avec une roue d'horloges tournant derrière son dos ; son corps alterne entre vieillesse extrême et jeunesse irréelle. |
+| Combat | Il accélère, ralentit ou inverse localement le temps. Il peut refaire apparaître les attaques des boss précédents sous forme d'échos temporels. |
+| Enjeu | Kael doit l'affronter pour stabiliser sa propre ligne temporelle ; s'il échoue, il reste effacé entre les mondes. |
+| Après la défaite | Khronovar n'est pas détruit : son Cœur des Âges, corrompu par les lignes temporelles qu'il a absorbées, menace encore le Vestibule des Ères. |
+
+### La purification de Khronovar
+
+Le **Cœur de Résonance Pure**, objet spécial de la Forge du Ciel Fracturé, possède une seconde fonction : il peut réaligner une énergie corrompue avec sa ligne temporelle d'origine. Kael l'utilise sur le Cœur des Âges de Khronovar et le guérit au lieu de l'achever. Le gardien retrouve alors sa conscience et comprend que Kael a choisi de sauver un ennemi capable de le détruire.
+
+En reconnaissance, Khronovar offre à Kael un cadeau exceptionnel. Le choix appartient au joueur.
+
+| Choix final | Conséquence narrative | Épilogue proposé |
+|---|---|---|
+| **Rester dans les Quatre Mondes** | Kael reçoit l'immortalité et devient le nouveau gardien des passages entre les mondes. Il conserve ses pouvoirs, ses compagnons et peut continuer à protéger les habitants libérés. | Kael contemple son ancien lycée à travers le portail, puis se détourne pour marcher vers les mondes qu'il a sauvés. Cette fin ouvre un mode post-jeu : nouvelles failles, quêtes de compagnons et menaces inter-univers. |
+| **Retourner dans son monde en mortel** | Kael refuse l'immortalité. Khronovar stabilise le portail et le renvoie chez lui, sans ses pouvoirs divins mais avec les souvenirs de son voyage. | Kael revient au lycée quelques secondes après sa disparition. L'horloge astronomique s'est arrêtée, mais une faible lueur prouve que les Quatre Mondes existent encore. Cette fin privilégie son humanité et sa vie auprès de ses proches. |
+
 
     
 
